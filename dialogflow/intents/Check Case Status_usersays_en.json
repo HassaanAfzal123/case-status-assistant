@@ -1,0 +1,211 @@
+[
+  {
+    "id": "52496d28-2a3e-42f9-8207-321d37283128",
+    "data": [
+      {
+        "text": "Check the status of case CASE-0004What is the status of case ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0001",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n Can you check case ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0123",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0500",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n What\u0027s going on with case ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-9999",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n I need an update on ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-1001",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-1001",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n I want to check ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0123",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n Check case ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0999",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n Can I get an update on ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0501",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n I want to check on ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0123",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0001",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": " status\n Status for ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-3456",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n Where are we with ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-1010",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n Get me info on case ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-1234",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n How is case ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-4444",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": " going\n Give me details about ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-2020",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n Provide update for ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0010",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n Give case update for ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0089",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": "\n ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0800",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      },
+      {
+        "text": " progress? Check the status of case ",
+        "userDefined": false
+      },
+      {
+        "text": "CASE-0004",
+        "meta": "@case_id",
+        "alias": "case_id",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

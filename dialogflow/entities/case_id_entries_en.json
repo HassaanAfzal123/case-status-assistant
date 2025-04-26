@@ -1,0 +1,23 @@
+[
+  {
+    "value": "CASE-0001",
+    "synonyms": [
+      "CASE-0001",
+      "case zero zero zero one"
+    ]
+  },
+  {
+    "value": "CASE-0123",
+    "synonyms": [
+      "CASE-0123",
+      "case zero one two three"
+    ]
+  },
+  {
+    "value": "CASE-1001",
+    "synonyms": [
+      "CASE-1001",
+      "case one zero zero one"
+    ]
+  }
+]

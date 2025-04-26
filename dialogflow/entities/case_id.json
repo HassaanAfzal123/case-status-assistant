@@ -1,0 +1,9 @@
+{
+  "id": "c87ff1c0-2ab2-4b5b-ae99-812c44f13b50",
+  "name": "case_id",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
